@@ -50,9 +50,9 @@ For More Details Click Help Button Below..
 @newmoviesottrelease
 """
     
-    ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
+    ABOUT_TEXT = """<b>➥ Name</b> : <code> Alfin Antony</code>
     
-<b>➥ Creator</b> : <b><i><a href="https://www.youtube.com/channel/UCw1KpmwhR2SCCFCwdTUWnyw">AlbertEinstein_TG</a></i></b>
+<b>➥ Creator</b> : <b><i><a href="https://instagram.com/alfinant0ny?utm_medium=copy_link">AlbertEinstein_TG</a></i></b>
 
 <b>➥ Language</b> : <code>Python3</code>
 
