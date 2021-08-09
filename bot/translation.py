@@ -6,14 +6,9 @@ class Translation(object):
     
     START_TEXT = """<b>Hey {}!!</b>
 <i>
-Sorry, This Bot Can Only Be Used In @malayalammoviesdownloader..!
+നീ ഏതാ മോനൂസെ എന്നെ @malayalammoviesdownloader ഗ്രൂപ്പിൽ മാത്രമേ ഉപയോഗിക്കാൻ പറ്റൂ...
 
-    
-
-For Queries, @Fantasyatmebot
-
-
-For More Details Click Help Button Below..
+ വെറുതെ സമയം കളയാൻ നിൽക്കണ്ട...വേഗം ഗ്രൂപ്പിലേക്ക് വിട്ടോ സിനിമ അവിടെ കിട്ടും...🤭
 @newmoviesottrelease
 </i>"""    
     
