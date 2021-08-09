@@ -35,7 +35,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    'Developers', url="https://t.me/newmoviesottrelease"
+                                    '🔰Join Our Channel🔰', url="https://www.youtube.com/channel/UCw1KpmwhR2SCCFCwdTUWnyw"
                                 )
                         ]
                     ]
@@ -48,7 +48,7 @@ async def start(bot, update):
 
     buttons = [[
         InlineKeyboardButton('Developers', url='https://t.me/newmoviesottrelease'),
-        InlineKeyboardButton('Source Code 🧾', url ='https://github.com/CrazyBotsz/Adv-Auto-Filter-Bot-V2')
+        InlineKeyboardButton('Source Code 🧾', url ='https://www.youtube.com/channel/UCw1KpmwhR2SCCFCwdTUWnyw')
     ],[
         InlineKeyboardButton('Support 🛠', url='https://t.me/malayalammoviesdownloader')
     ],[
