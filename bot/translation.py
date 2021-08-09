@@ -52,7 +52,7 @@ For More Details Click Help Button Below..
     
     ABOUT_TEXT = """<b>➥ Name</b> : <code> Alfin Antony</code>
     
-<b>➥ Creator</b> : <b><i><a href="https://instagram.com/alfinant0ny?utm_medium=copy_link">AlbertEinstein_TG</a></i></b>
+<b>➥ Creator</b> : <b><i><a href="https://instagram.com/alfinant0ny?utm_medium=copy_link">Alfin Antony</a></i></b>
 
 <b>➥ Language</b> : <code>Python3</code>
 
