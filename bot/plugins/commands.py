@@ -35,7 +35,7 @@ async def start(bot, update):
                         [
                             InlineKeyboardButton
                                 (
-                                    '🔰Join Our Channel🔰', url="https://www.youtube.com/channel/UCw1KpmwhR2SCCFCwdTUWnyw"
+                                    '🔰Join Our Channel🔰', url="https://t.me/newmoviesottrelease"
                                 )
                         ]
                     ]
@@ -47,10 +47,10 @@ async def start(bot, update):
         return
 
     buttons = [[
-        InlineKeyboardButton('Developers', url='https://t.me/newmoviesottrelease'),
-        InlineKeyboardButton('Source Code 🧾', url ='https://www.youtube.com/channel/UCw1KpmwhR2SCCFCwdTUWnyw')
+        InlineKeyboardButton('⚜️ Group ⚜️', url='https://t.me/malayalammoviesdownloader'),
+        InlineKeyboardButton('⚜️ Channel ⚜️', url ='https://t.me/newmoviesottrelease')
     ],[
-        InlineKeyboardButton('Support 🛠', url='https://t.me/malayalammoviesdownloader')
+        InlineKeyboardButton('⚜️ YOUTUBE ⚜️', url='https://www.youtube.com/channel/UCw1KpmwhR2SCCFCwdTUWnyw')
     ],[
         InlineKeyboardButton('Help ⚙', url="https://t.me/Fantasyatmebot")
     ]]
