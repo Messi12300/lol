@@ -52,7 +52,7 @@ async def start(bot, update):
     ],[
         InlineKeyboardButton(' 💥 𝚂𝚞𝚋𝚜𝚌𝚛𝚒𝚋𝚎 𝙼𝚢 𝚈𝚘𝚞𝚃𝚞𝚋𝚎 𝙲𝚑𝚊𝚗𝚗𝚎𝚕 💥 ', url='https://www.youtube.com/channel/UCw1KpmwhR2SCCFCwdTUWnyw')
     ],[
-        InlineKeyboardButton('Help ⚙', url="https://t.me/Fantasyatmebot")
+        InlineKeyboardButton('𝙷𝚎𝚕𝚙 ⚙', url="https://t.me/Fantasyatmebot")
     ]]
     
     reply_markup = InlineKeyboardMarkup(buttons)
